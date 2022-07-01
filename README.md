@@ -3,7 +3,7 @@
 
 #### This project addresses the topics about :
 
-* [C Hello_World] (https://github.com/Madele-theron/alx-low_level_programming/tree/master/0x00-hello_world)
+* [C Hello_World](https://github.com/Madele-theron/alx-low_level_programming/tree/master/0x00-hello_world)
 * C Variables, if, else, while
 * C Functions, nested loops
 * C Debugging
