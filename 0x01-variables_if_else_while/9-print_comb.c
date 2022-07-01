@@ -6,14 +6,15 @@
  */
 int main(void)
 {
-int digit;
-for (digit = '0'; digit <= '9'; digit++)
+int n;
+for (n = 48; n < 58; n++)
 {
-putchar(digit);
-if (digit == 9)
-continue;
+putchar(n);
+if (n != 57)
+{
 putchar(',');
 putchar(' ');
+}
 }
 putchar('\n');
 return (0);
