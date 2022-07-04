@@ -4,7 +4,7 @@
 #### This project addresses the topics about :
 
 * [C Hello_World](https://github.com/Madele-theron/alx-low_level_programming/tree/master/0x00-hello_world)
-* C Variables, if, else, while
+* [C Variables, if, else, while](https://github.com/Madele-theron/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
 * C Functions, nested loops
 * C Debugging
 * C More functions, more nested loops
