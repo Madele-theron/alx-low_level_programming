@@ -1,18 +1,17 @@
 #include <stdio.h>
-#include <string.h>
 #include "main.h"
 
 /**
-*print_alphabet - print alphabet followed by new line
-*Return: void
+*_islower - print alphabet lowercase followed by new line
+*Return: 1 if lowercase or 0 if uppercase
 */
-void print_alphabet(void)
+int _islower(int c)
 {
-char alpha = 'a';
-while (alpha <= 'z')
+char i;
+for (i = 'a'; i <= 'z'; i++)
 {
-putchar(alpha);
-alpha++;
+if (i == c)
+return (1);
 }
-putchar('\n');
+return (0);
 }
