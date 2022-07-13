@@ -17,6 +17,6 @@ putchar(*hola);
 hola++;
 a++;
 }
-putchar('\n');
+/* putchar('\n'); */
 return (0);
 }
