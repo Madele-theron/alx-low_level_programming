@@ -11,12 +11,12 @@ int main(void)
 char *hola = "_putchar";
 int a;
 a = 0;
-while (a < 9)
+while (a < 8)
 {
 putchar(*hola);
 hola++;
 a++;
 }
-/* putchar('\n'); */
+putchar('\n'); 
 return (0);
 }
