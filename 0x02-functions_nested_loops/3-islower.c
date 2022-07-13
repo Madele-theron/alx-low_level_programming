@@ -3,6 +3,7 @@
 
 /**
 *_islower - print alphabet lowercase followed by new line
+* @c: An input character
 *Return: 1 if lowercase or 0 if uppercase
 */
 int _islower(int c)
