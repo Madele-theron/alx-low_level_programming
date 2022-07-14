@@ -28,7 +28,7 @@ putchar(':');
 putchar('0');
 putchar(j + '0');
 }
-else if (j >= 59)
+else if (j >= 10)
 {
 putchar(':');
 putchar((j / 10) + '0');
