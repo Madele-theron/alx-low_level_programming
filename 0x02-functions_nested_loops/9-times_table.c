@@ -13,13 +13,14 @@ for (row = 0; row <= 9; row++)
 for (col = 0; col <= 9; col++)
 {
 multi = row * col;
-if (multi == 0)
+if (col == 0)
 {
 putchar(multi + '0');
 }
 else if (multi < 10)
 {
 putchar(',');
+putchar(' ');
 putchar(' ');
 putchar(multi + '0');
 }
