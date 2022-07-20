@@ -1,4 +1,4 @@
-# ALX-low_level_programming Project
+# ALX - Low Level Programming Project
 ### This project is focused on the C programming language and how it works.
 
 #### This project addresses the topics about :
